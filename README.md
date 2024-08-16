@@ -1,1 +1,1 @@
-# JS_4th_assignment
+# JS_4th_assignment TOPIC :1) DATE METHOD 2) FUNCTION 
